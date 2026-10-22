@@ -7,6 +7,9 @@
 
 # Lama
 
+> [!NOTE]
+> This is a fork for Oleg Pliss VM course. See [vm/README.md](vm/README.md).
+
 ![lama](lama.svg) is a programming language (initualy developed by JetBrains Research) for educational purposes as an exemplary language to introduce the domain of programming languages, compilers, and tools.
 Its general characteristics are:
 
